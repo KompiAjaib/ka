@@ -1,0 +1,38 @@
+{
+  "name": "Kompi Tube",
+  "short_name": "Kompi Tube",
+  "start_url": "https://www.kompitube.net/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fafafa",
+  "description": "The movie trailers, funny videos, most popular videos, trending videos, and many kind of videos from Youtube just for you.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s48/fav-kompitube.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s72/fav-kompitube.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s96/fav-kompitube.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s144/fav-kompitube.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s168/fav-kompitube.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s192/fav-kompitube.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lnbrScprWc0/WyutpjyamWI/AAAAAAAAyNQ/E-adjuZov-A1Z0ezwkt0U1wzCJ7OZamcgCLcBGAs/s512/fav-kompitube.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
